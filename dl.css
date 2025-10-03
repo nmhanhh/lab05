@@ -5,10 +5,6 @@
 .special{
   color: darkorange;
 }
-nav a:hover{
-  background-color: blue;
-  border: 5px solid cyan;
-}
 h1{
   border: 1px solid darkgray;
   margin: 0.5em;
